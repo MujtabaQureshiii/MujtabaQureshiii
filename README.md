@@ -2,7 +2,8 @@
 
 ⭐ **FAST '28 | BSCS Student**  
 💻 Coding with C++ & C  
-🎨 Graphic Designer for 3 stores  
+🎨 Graphic Designer & Social Media Manager of 3 stores •  
+🌐 [Diecast Station](https://diecaststation.pk/) | [Babyfy](https://babyfy.pk/) | [Trendy Toys](https://trendytoys.co/)
 
 ---
 
