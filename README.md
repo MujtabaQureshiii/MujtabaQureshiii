@@ -3,7 +3,11 @@
 ⭐ **FAST '28 | BSCS Student**  
 💻 Coding with C++ & C  
 🎨 Graphic Designer for 3 stores  
-⚽ Football enthusiast — team player on and off the field  
+
+---
+
+## 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-qureshi-cs/)
 
 ---
 
@@ -15,18 +19,7 @@
 
 ---
 
-## 📌 Events & Competitions
-- 💻 **ACM Coders Cup 2024** – Coding contest participant  
-- 🚀 **Procom 2025** – Tech project showcase  
-- ⚡ **Dev Day 2025** – Hackathons & hands-on development  
-
----
-
 ## 📊 GitHub Stats
 ![Mujtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=MujtabaQureshiii&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaQureshiii&layout=compact&theme=tokyonight)
 
----
-
-## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-qureshi-cs/)
