@@ -20,7 +20,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![Mujtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=MujtabaQureshiii&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaQureshiii&layout=compact&theme=tokyonight)
+## 📈 Contribution Graph
+
+![Mujtaba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MujtabaQureshi&theme=tokyo-night)
+
+
+
 
