@@ -12,17 +12,24 @@
 
 ---
 
-## 🛠️ Skills & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,github,linux,ps,canva" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=BSCS+Student+at+FAST+NUCES;C%2FC%2B%2B+Programmer;DSA+Enthusiast;Graphic+Designer;Building+Real+Projects" />
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=120&section=footer" />
 
-![Mujtaba's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MujtabaQureshi&theme=tokyo-night)
+
+
+
+
+
 
 
 
