@@ -22,7 +22,7 @@
 I'm a first-year **BSCS student at FAST-NUCES Karachi** (Class of 2028), splitting my time between core CS coursework and running a real freelance business on the side.
 
 - 🎓 Studying Computer Science — DSA, OOP, Databases, Systems Programming, AI/Automation
-- 💻 Comfortable across **C++, C, Python, and PHP/MySQL**
+- 💻 Comfortable across **C++, C, Python, and MySQL**
 - 🎨 Also a **graphic designer** — I handle social media & design for three e-commerce brands
 - 🛒 Run a few small design shops of my own on the side (details below)
 - 🌱 Currently exploring AI-assisted workflow automation (n8n, OpenAI API)
