@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Mujtaba%20Qureshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSCS%20Student%20%7C%20Programmer%20%7C%20Graphic%20Designer%20%7C%20Etsy%20Seller&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=BSCS+Student+at+FAST-NUCES+Karachi;C%2B%2B+%7C+Python+%7C+PHP+%2F+MySQL+Developer;Graphic+Designer+%26+Social+Media+Manager;Etsy+Seller+%7C+3%2B+Shops+Run+End-to-End" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=BSCS+Student+at+FAST-NUCES+Karachi;C%2B%2B+%7C+Python+%2F+MySQL+Developer;Graphic+Designer+%26+Social+Media+Manager;Etsy+Seller+%7C+3%2B+Shops+Run+End-to-End" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujtaba-qureshi-cs/)
 ![Profile Views](https://komarev.com/ghpvc/?username=MujtabaQureshiii&style=for-the-badge&color=06B6D4)
@@ -11,6 +11,12 @@
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+</div>
+
 ### 👋 About Me
 
 I'm a first-year **BSCS student at FAST-NUCES Karachi** (Class of 2028), splitting my time between core CS coursework and running a real freelance business on the side.
@@ -18,8 +24,7 @@ I'm a first-year **BSCS student at FAST-NUCES Karachi** (Class of 2028), splitti
 - 🎓 Studying Computer Science — DSA, OOP, Databases, Systems Programming, AI/Automation
 - 💻 Comfortable across **C++, C, Python, and PHP/MySQL**
 - 🎨 Also a **graphic designer** — I handle social media & design for three e-commerce brands
-- 🛒 Run my own **Etsy business** with three active shops (details below)
-- 🎮 Competitive **Valorant** player and a PC hardware / troubleshooting nerd
+- 🛒 Run a few small design shops of my own on the side (details below)
 - 🌱 Currently exploring AI-assisted workflow automation (n8n, OpenAI API)
 
 ---
@@ -47,53 +52,17 @@ I'm a first-year **BSCS student at FAST-NUCES Karachi** (Class of 2028), splitti
 
 ---
 
-### 🛒 My Etsy Business
+### 💼 Freelancing & Side Hustle
 
-I design and run digital-product Etsy shops from the ground up — listings, SEO, pricing, mockups, and customer support:
-
-- 🏎️ **[DigitalPexelArt](https://www.etsy.com/shop/DigitalPexelArt)** — Digital poster downloads: car/F1 wall art, football icons, minimalist prints
-- 🔧 **FunnelSpectrum** — Ready-made GoHighLevel funnel templates for small businesses
-- 🎴 **CardDex Creation** — Custom Pokémon binder & display art for collectors
-
-I also freelance as a designer & social media manager for three e-commerce brands — **Diecast Station**, **Babyfy**, and **Trendy Toys** — and operate a small agency setup, **Mastermind Pakistan**, built on GoHighLevel.
+- 🎨 Graphic designer & social media manager for **3 e-commerce stores**, handling their branding, content, and day-to-day store management
+- 🛍️ Comfortable working in **Shopify** for product listings, store setup, and catalog management
+- ✏️ On the side, I also run a couple of small personal design shops — one built around **funnel templates**, one around **custom card deck art**, and one around **pixel art style posters**
 
 ---
 
-### 📌 Featured Projects
-
 <div align="center">
 
-[![CineFlex](https://github-readme-stats.vercel.app/api/pin/?username=MujtabaQureshiii&repo=DataBase-PROJECT-Cineflex-MovieBookingSystem&theme=tokyonight)](https://github.com/MujtabaQureshiii/DataBase-PROJECT-Cineflex-MovieBookingSystem)
-[![Smart Distiller](https://github-readme-stats.vercel.app/api/pin/?username=MujtabaQureshiii&repo=AI-PROJECT-SmartDistillerAndWorkflowAutomator&theme=tokyonight)](https://github.com/MujtabaQureshiii/AI-PROJECT-SmartDistillerAndWorkflowAutomator)
-
-[![Flight Reservation](https://github-readme-stats.vercel.app/api/pin/?username=MujtabaQureshiii&repo=DSA-PROJECT-FlightReservationSystem&theme=tokyonight)](https://github.com/MujtabaQureshiii/DSA-PROJECT-FlightReservationSystem)
-[![Maze Game](https://github-readme-stats.vercel.app/api/pin/?username=MujtabaQureshiii&repo=OOP-PROJECT-MazeGame-SFML&theme=tokyonight)](https://github.com/MujtabaQureshiii/OOP-PROJECT-MazeGame-SFML)
-
-[![Bank System](https://github-readme-stats.vercel.app/api/pin/?username=MujtabaQureshiii&repo=OS-PROJECT-MultiThreadingBankSystem&theme=tokyonight)](https://github.com/MujtabaQureshiii/OS-PROJECT-MultiThreadingBankSystem)
-[![Ping Pong](https://github-readme-stats.vercel.app/api/pin/?username=MujtabaQureshiii&repo=COAL-PROJECT-PingPongGame&theme=tokyonight)](https://github.com/MujtabaQureshiii/COAL-PROJECT-PingPongGame)
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MujtabaQureshiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=MujtabaQureshiii&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaQureshiii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MujtabaQureshiii&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="500">
 
 </div>
 
